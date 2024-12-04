@@ -1,0 +1,28 @@
+{
+    "documents": [
+        {
+            "id": "doc1",
+            "content": "The latest developments in artificial intelligence focus on large language models and their applications in natural language processing. These models have shown remarkable capabilities in understanding and generating human-like text.",
+            "metadata": {
+                "category": "AI",
+                "date": "2024-03-19"
+            }
+        },
+        {
+            "id": "doc2",
+            "content": "Climate change continues to be a pressing global issue. Recent studies show increasing global temperatures and their impact on ecosystems worldwide. Scientists emphasize the need for immediate action.",
+            "metadata": {
+                "category": "Environment",
+                "date": "2024-03-19"
+            }
+        },
+        {
+            "id": "doc3",
+            "content": "Quantum computing researchers have achieved a new milestone in error correction. This breakthrough could lead to more stable quantum computers and accelerate the development of practical quantum applications.",
+            "metadata": {
+                "category": "Technology",
+                "date": "2024-03-19"
+            }
+        }
+    ]
+}
